@@ -1,38 +1,48 @@
 # **Student Grade Generator**
 
- **Name**:  Student Grade Generator
+## **Description**: 
+ This app prompts the user to input student marks. The input should be between 0 and 100. The output should correspond the correct grade by clicking on 'Calculate Grade', as shown below: 
+         A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40.
 
+## **Features** ⚙️
+- [x] **Galaxy Image** : Hover over the image written 'Calculate Grade' and click *Calculate Grade*.
+- [x] **Prompt** : A message containing an input field will be displayed where the user is to insert thei score and then press **ok** to display their grad
 
+## **Getting Started**: 🤩
+Follow the instructions below to get a copy of the project up and running on your local machine. 
 
-### Description: This function prompts the user to input student marks. The input should be between 0 and 100. The output should correspond the correct grade, as shown below: 
-
-        A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40.
-
-
-## System Requirements :
+## **System Requirements** 📌 : 
   - Operating system (Windoes 10+, MacOS, Linux, etc.)
-  - Node 18+
   - A text editor capable of running Javascript
   - Create a GitHub  Account   
-  - Browser capable of running Javascript  
-  - RAM > 4GB 
-  - Disk Space > 1GB          
+  - Browser capable of running Javascript          
 
+## **Folder Structure**
+      Phase 1 Code Challange/
+                        │
+                        ├── SPEED DETECEOR
+                        ├──  car speed.html
+                        ├── car speed.js
+                        └── Car-Animation-Img
 
-## Installations :
+## **Installations** :
  1. open your terminal/CLI on your computer
  2. Clone the repository by running the following command:
-     
-         git clone "link"`
-
+   ```sh
+      gitclone https://github.com/Mars254/Code-Challenge.git
+  ```
+## **You can check the deployed website by clicking the live link below** 👇 
+[Sopping List](https://mars254.github.io/Code-Challenge/)
                   
 
+## **Running the Aplication** :
+ After installing the files on your PC, Open the files in vs code, copy the path by right licking the 'index.html' file and paste it on your browser to view the program
 
-## Running the Aplication :
- After installing the files on your PC, Open the files in vs code, copy the path and paste it on your browser to view the program
+## **Contributing** 🤝
+Contributions are welcome! If you want to contribute to this project, please fork the repository and create a pull request with your changes.
 
-## Author :
-this program was created for a Moringa code challenge
+## **Author** 
+  this program was created for a Moringa School code challenge
 
 
 
