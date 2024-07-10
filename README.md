@@ -31,9 +31,6 @@ Follow the instructions below to get a copy of the project up and running on you
    ```sh
       gitclone https://github.com/Mars254/Code-Challenge.git
   ```
-## **You can check the deployed website by clicking the live link below** 👇 
-[Sopping List](https://mars254.github.io/Code-Challenge/)
-                  
 
 ## **Running the Aplication** :
  After installing the files on your PC, Open the files in vs code, copy the path by right licking the 'index.html' file and paste it on your browser to view the program
@@ -83,9 +80,6 @@ Follow the instructions below to get a copy of the project up and running on you
    ```sh
       gitclone https://github.com/Mars254/Code-Challenge.git
   ```
-## **You can check the deployed website by clicking the live link below** 👇 
-[Sopping List](https://mars254.github.io/Code-Challenge/)
-                  
 
 ## **Running the Aplication** :
  After installing the files on your PC, Open the files in vs code, copy the path by right licking the 'index.html' file and paste it on your browser to view the program
@@ -134,9 +128,6 @@ Follow the instructions below to get a copy of the project up and running on you
    ```sh
       gitclone https://github.com/Mars254/Code-Challenge.git
   ```
-## **You can check the deployed website by clicking the live link below** 👇 
-[Sopping List](https://mars254.github.io/Code-Challenge/)
-                  
 
 ## **Running the Aplication** :
  After installing the files on your PC, Open the files in vs code, copy the path by right licking the 'index.html' file and paste it on your browser to view the program
